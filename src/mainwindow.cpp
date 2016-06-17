@@ -254,6 +254,7 @@ delete timer;
     delete world;
 itemList.clear();
   isBirdStop=true;
+  isEnemyKill=false;
  isLaunch=false;
  abilityUsed=false;
 
